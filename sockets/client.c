@@ -89,7 +89,7 @@ int main(int argc, char *argv[]) {
     atexit(clean);
 
 
-    if (argc == 4){                                         // lockal socket
+    if (argc == 4){                                         // local socket
         if (strcmp(argv[2], "l") != 0) {
             printf("Invalid arguments.\n");
             return -1;
