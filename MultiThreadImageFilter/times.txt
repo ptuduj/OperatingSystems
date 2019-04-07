@@ -1,0 +1,43 @@
+c = 5
+
+image filtering time by 1 pthreads:
+real time:	0.216554 s
+user time:	0.216279 s
+sys time:	0.000000 s
+
+image filtering time by 2 pthreads:
+real time:	0.172923 s
+user time:	0.251563 s
+sys time:	0.004001 s
+
+image filtering time by 4 pthreads:
+real time:	0.145290 s
+user time:	0.311570 s
+sys time:	0.000000 s
+
+
+c = 30
+
+image filtering time by 1 pthreads:
+real time:	5.587652 s
+user time:	5.587293 s
+sys time:	0.000000 s
+
+image filtering time by 2 pthreads:
+real time:	4.867827 s
+user time:	9.651369 s
+sys time:	0.000000 s
+
+
+image filtering time by 4 pthreads:
+real time:	3.481128 s
+user time:	9.387904 s
+sys time:	0.007986 s
+
+
+image filtering time by 8 pthreads:
+real time:	3.292249 s
+user time:	9.485218 s
+sys time:	0.007974 s
+
+
