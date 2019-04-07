@@ -1,0 +1,4 @@
+#!/bin/bash
+echo pies
+ls -l | grep paulinat 
+#echo pies
